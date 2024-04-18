@@ -1,0 +1,68 @@
+title{
+    font-weight: bolder;
+    color: blueviolet;
+  }
+  h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    text-align: center;
+  }
+  h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blueviolet;
+    font-weight: bolder;
+  }
+  p{
+    color: blue;
+    text-align: center;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+  }
+    body {
+        margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
+        background-color: black;
+    }
+  
+    nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        background-color: #333;
+        overflow: hidden;
+    }
+  
+    nav ul li {
+        float: left;
+    }
+  
+    nav ul li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+  
+    nav ul li a:hover {
+        background-color: #555;
+    }    
+    a {
+        text-decoration: none; /* Removes underline by default */
+        color: #007bff; /* Sets the color of the link */
+        transition: color 0.3s ease; /* Adds smooth transition effect on color change */
+        text-align: center;
+    }
+  
+    a:hover {
+        color: #0056b3; /* Changes color on hover */
+    }
+    div li{
+        color: blue;
+        text-align: center;
+        font-size: 23px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-weight: bolder;
+    }
